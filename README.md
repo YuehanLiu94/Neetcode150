@@ -1,8 +1,5 @@
 # Neetcode150
 
-## Progression
-
-![Progress](https://progress-bar.dev/42/)
 
 ## Exercises to redo:
 
